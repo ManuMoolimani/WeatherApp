@@ -9,16 +9,16 @@ function About() {
      
     }}>
     <div>
-        <h1 style={{padding:'10px',fontSize:'45px',marginTop:'10%',color:'#00203FFF',}}>Bulding Weather Application </h1>
+        <h1 style={{padding:'10px',fontSize:'45px',marginTop:'8%',color:'#00203FFF',}}>Bulding Weather Application </h1>
         <p style={{fontSize:'20px',color:'#00203FFF'}}> This is a simple application that is built using React and Weatherstack api.</p>
 
      <div style={{
         position: 'absolute',
-        top:'30%',
+        top:'28%',
         left:'5%',
         width: '100%', 
         maxWidth: '650px', 
-        padding: '30px',
+        padding: '25px',
         background: '#f0f0f0',
         borderRadius: '20px',
         boxShadow: '0 4px 20px rgba(44, 40, 40, 0.9)',
@@ -31,7 +31,7 @@ function About() {
             <li>Weather Icons from the API</li>
         </ul>
 
-        <h2 style={{marginTop:'10px'}}>Built Using</h2>
+        <h2 style={{marginTop:'5px'}}>Built Using</h2>
         <ul>
             <li>React</li>
             <li> Weatherstack API <a href='https://weatherstack.com'> <IosShareIcon sx={{fontSize:'20px'}}/> </a></li>
@@ -39,7 +39,7 @@ function About() {
             <li>React Router DOM</li>
         </ul>
 
-        <h2 style={{marginTop:'10px'}}>Future Enchancements</h2>
+        <h2 style={{marginTop:'5px'}}>Future Enchancements</h2>
         <ul>
             <li>Add weather forecasts for the next 7 days.</li>
             <li>Add user preferences for favorite cities.</li>
@@ -55,7 +55,7 @@ function About() {
         left:'5%',
         width: '100%', 
         maxWidth: '650px', 
-        padding: '30px',
+        padding: '25px',
         background: '#f0f0f0',
         borderRadius: '20px',
         boxShadow: '0 4px 20px rgba(44, 40, 40, 0.9)',
@@ -70,11 +70,11 @@ function About() {
 
       <div style={{
         position: 'absolute',
-        top:'30%',
+        top:'28%',
         left:'40%',
         width: '100%', 
         maxWidth: '650px', 
-        padding: '30px',
+        padding: '25px',
         background: '#f0f0f0',
         borderRadius: '20px',
         boxShadow: '0 4px 20px rgba(44, 40, 40, 0.9)',
@@ -91,11 +91,11 @@ function About() {
 
       <div style={{
         position: 'absolute',
-        top:'51%',
+        top:'50%',
         left:'40%',
         width: '100%', 
         maxWidth: '650px', 
-        padding: '30px',
+        padding: '25px',
         background: '#f0f0f0',
         borderRadius: '20px',
         boxShadow: '0 4px 20px rgba(44, 40, 40, 0.9)',
@@ -115,11 +115,11 @@ function About() {
         
       <div style={{
         position: 'absolute',
-        top:'79%',
+        top:'80%',
         left:'40%',
         width: '100%', 
         maxWidth: '650px', 
-        padding: '30px',
+        padding: '25px',
         background: '#f0f0f0',
         borderRadius: '20px',
         boxShadow: '0 4px 20px rgba(44, 40, 40, 0.9)',
@@ -132,7 +132,7 @@ function About() {
 
     <div style={{
         position: 'absolute',
-        top:'93%',
+        top:'92%',
         left:'45%',
         width: '100%', 
         maxWidth: '750px', 
@@ -148,13 +148,13 @@ function About() {
         style={{
           position: 'absolute',
           top: '0%',
-          right:'14.7%',
+          right:'13%',
           backgroundImage: 'url(https://ManuMoolimani.github.io/WeatherApp/pic1.jpg)',
           padding: '10px',
           boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)',
           width: '100%',
           height: '100vh',
-          maxWidth: '250px',
+          maxWidth: '200px',
           marginLeft: '90%',
         }}
       > </div>
@@ -168,7 +168,7 @@ function About() {
           boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)',
           width: '100%',
           height: '100vh',
-          maxWidth: '250px',
+          maxWidth: '200px',
           marginLeft: '90%',
         }}
       > </div>

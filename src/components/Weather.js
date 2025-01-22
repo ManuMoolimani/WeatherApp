@@ -86,7 +86,7 @@ function Weather() {
         style={{
           position: 'absolute', 
           top: '35%', 
-          left: '25%', 
+          left: '28%', 
           transform: 'translateX(-50%)', 
           width: '100%', 
           maxWidth: '850px', 
