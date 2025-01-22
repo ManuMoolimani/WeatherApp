@@ -40,7 +40,7 @@ const Signup = () => {
   return (
     <div
       style={{
-        backgroundImage: 'url(/pic1.jpg)',
+        backgroundImage: 'url(https://ManuMoolimani.github.io/WeatherApp/pic1.jpg)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',

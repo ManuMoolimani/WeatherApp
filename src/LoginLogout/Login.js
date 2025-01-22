@@ -37,7 +37,7 @@ const Login = () => {
   return (
     <div
       style={{
-        backgroundImage: 'url(/pic2.jpg)', 
+        backgroundImage: 'url(https://ManuMoolimani.github.io/WeatherApp/pic2.jpg)', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
