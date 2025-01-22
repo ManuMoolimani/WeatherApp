@@ -34,7 +34,7 @@ const Signup = () => {
    // alert('Signup successful! Redirecting to login page.');
     setFormData({ fullName: '', email: '', password: '' });
 
-    navigate('/login');
+    navigate('/WeatherApp/login');
   };
 
   return (

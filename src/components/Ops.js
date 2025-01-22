@@ -7,12 +7,12 @@ function Ops() {
   
     const handleLogoutClick = () => {
       
-      navigate('/login'); //naviagte to signup.
+      navigate('/WeatherApp/login'); //naviagte to signup.
     };
   
     const remove =() => {
       localStorage.removeItem('userData');
-      navigate('/'); //When data is deleted, redirect to signup.
+      navigate('/WeatherApp'); //When data is deleted, redirect to signup.
     }
   
    

@@ -4,7 +4,7 @@ import SignupPage from './LoginLogout/Signup';
 import LoginPage from './LoginLogout/Login';   
 import Home from './Home';
 import About from './components/About';
-import ProtectedRoutes from './ProtectedRoutes';
+
 
 
 function App() {
@@ -15,10 +15,10 @@ function App() {
       <Router>
         <Routes>
           {/* First to load Signup page */}
-          <Route path="/" element={<SignupPage />} />
+          <Route path="/WeatherApp" element={<SignupPage />} />
           
           {/* Route for Login page  */}
-        <Route path="/login" element={<LoginPage />} />
+        <Route path="/WeatherApp/login" element={<LoginPage />} />
       
           {/* Drawer */}
           <Route path='/Home' element={<Home />} />
